@@ -1,4 +1,4 @@
-![logo](https://github.com/RAFIIQUE/RAFIIQUE/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/RAFIIQUE/RAFIIQUE/blob/main/Dark%20Blue%20White%20Futuristic%20Technology%20Company%20Slogan%20LinkedIn%20Background%20Photo.png)
 <h1 align="center">Hi 👋, I'm SAAD RAFIQUE</h1>
 <h3 align="center">A passionate Mechatronics Engineer from Pakistan</h3>
 
